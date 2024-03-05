@@ -17,7 +17,7 @@ nodejs for connectivity of data
 react js for the application in frontend
 postgresql is used for the database connectivity
 
-nodejs is installed after that we installed the npm install pg and npm install and create the database
-reactjs is installed after that we installed the react scripts and npm install and we create the applications in that folder
-postgresql is installed after that we create the one database ,then the database is there in the tables data, we created one table
+nodejs is installed after that we installed the npm install pg and npm install and create the database.
+reactjs is installed after that we installed the react scripts and npm install and we create the applications in that folder.
+postgresql is installed after that we create the one database ,then the database is there in the tables data, we created one table.
 
