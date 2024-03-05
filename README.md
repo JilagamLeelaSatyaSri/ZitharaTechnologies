@@ -13,8 +13,8 @@ I would like to explain that how i will do the task
 
 first we installed the three application nodejs,reactjs and postgresql
 
-nodejs for connectivity of data 
-react js for the application in frontend
+nodejs for connectivity of data ,
+react js for the application in frontend ,
 postgresql is used for the database connectivity
 
 nodejs is installed after that we installed the npm install pg and npm install and create the database.
